@@ -1,4 +1,4 @@
-# :orangopus: Welcome to Orangopus
+# 👋 Welcome to Orangopus
 
 We're an open-source non-profit development studio working on making tools for creators, streamers, gamers & beyond. Completely 100% free and open-source.
 
