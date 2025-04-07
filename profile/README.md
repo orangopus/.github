@@ -1,28 +1,28 @@
-# 👋 Welcome to Orangopus
+# :wave: Welcome to Orangopus
 
 We're an open-source non-profit development studio working on making tools for creators, streamers, gamers & beyond. Completely 100% free and open-source.
 
-Find out more at: https://orangop.us
+Find out more at: https://orangopus.org
 
 ## Orangopus Initiatives
 
-**Orangopus Labs** | https://orangop.us/#labs 
+**Orangopus Labs** | https://orangopus.org/#labs 
 
 Orangopus Labs contains all of our open-source projects that are either in development or experimental. 
 
 **Feedback** :loudspeaker:
 
-https://feedback.orangop.us
+https://opus.ad/feedback
 
 **Help** :wave:
 
-Read our various help articles: https://help.orangop.us
+Read our various help articles: https://opus.ad/help
 
-Send an email to hey@orangop.us
+Send an email to hey@orangopus.org
 
 **Pledge/Contribute** :bulb:
 
-https://opencollective.com/orangopus
+https://opus.ad/collective
 
 **Etiquette** :pen_ballpoint:
 
@@ -30,4 +30,4 @@ https://opencollective.com/orangopus
 
 **Invite Your Friends!**
 
-https://go.orangop.us/discord
+https://opus.ad/discord
